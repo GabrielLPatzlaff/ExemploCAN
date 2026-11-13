@@ -1,0 +1,36 @@
+# Saídas geradas e instaladores (publique o exemplo genérico em Releases).
+/build/
+/dist/
+/release/
+/work/
+/entrega/
+/nbproject/private/
+
+# Dados de uso, preferências pessoais e cópias de segurança.
+/dados/
+/backup/
+/backups/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.sql
+*.csv
+*.txt
+*.log
+*.asc
+*.trc
+*.blf
+*.zip
+*.exe
+*.tmp
+conexao-mysql.properties
+config-local.properties
+aparencia.properties
+cores-ids.properties
+
+# Ferramentas locais.
+/.idea/
+/.vscode/
+*.class
+*.bak
